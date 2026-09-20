@@ -1,0 +1,6 @@
+requests
+feedparser
+numpy
+pandas
+yfinance
+https://github.com/twopirllc/pandas-ta/archive/0.3.14b.zip
